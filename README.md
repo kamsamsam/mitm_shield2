@@ -10,13 +10,13 @@ Designed for small to mid-sized businesses, educational institutions, and cybers
 
 Installation
 Clone this repository:
-git clone https://github.com/kamsamsam/MITM-Shield
-cd MITM-Shield
+git clone https://github.com/kamsamsam/mitm_shield2
+cd MITM-Shield2
 
 Usage:
-sudo comod +x pr2.py
+sudo chmod +x mitm_shield.py
 
-sudo python3 pr2.py
+sudo python3 mitm_shield.py
 
 Target Users
 Small to mid-sized businesses (SMBs)
